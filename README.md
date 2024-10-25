@@ -21,5 +21,5 @@
   <img src="https://github.com/BoburjonMurodov/Family_Expenses/blob/main/Apple iPhone 11 Pro Max Screenshot 6.png" width="300"/>
 </p>
 
-## 📦 Repository
-Explore the project [here](./app-debug.apk).
+## 📦 Installation
+you find apk file from [here](./app-debug.apk).
