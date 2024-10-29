@@ -2,7 +2,7 @@ q# 🏠 Family Expenses
 
 **Family Expenses** is a finance management app designed for families. It leverages **MVVM** and **Clean Architecture**, utilizing **Dagger-Hilt** for dependency injection, **Coroutines** and **Flows** for efficient asynchronous programming, and **Firebase** for backend services. The app features **multi-language support**, **day/night themes**, **BottomSheets**, and **shimmer effects** for a modern user experience.
 
-## 🚀 Features
+## 🚀 Technologies
 - MVVM architecture
 - Dagger-Hilt for DI
 - Asynchronous operations with Flows and Coroutines
