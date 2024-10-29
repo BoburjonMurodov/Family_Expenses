@@ -22,4 +22,4 @@ q# 🏠 Family Expenses
 </p>
 
 ## 📦 Installation
-you find apk file from [here]([./app-debug.apk](https://github.com/BoburjonMurodov/Family_Expenses/releases/download/release/app-release.apk)).
+you find apk file from [here](https://github.com/BoburjonMurodov/Family_Expenses/releases/download/release/app-release.apk).
